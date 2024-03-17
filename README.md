@@ -1,4 +1,4 @@
-# Hi there. I'm Michał. 👋 I'm a Lead Data Scientist, Deep Learning Engineer and NLP enthusiast.
+# Hi there. I'm Michał. 👋
 
 I'm a Lead Data Scientist, Deep Learning Engineer and NLP enthusiast.
 
@@ -24,35 +24,35 @@ AWS, GCP, Azure, Kubernetes, Kubeflow, Docker, Terraform, AWS CDK, Github Action
 **🏗️ Non-ML Frameworks**  
 Rust, React, Svelte, React-Native, LitElement, GraphQL, Gatsby, TailwindCSS
 
-Machine learning and deep learning fundamentals:
-• Models research, development and production deployment
-• Models architectures, data preprocessing, feature engineering, hyperparameters tuning, loss functions and performance metrics
+####Machine learning and deep learning fundamentals:
+* Models research, development and production deployment
+** Models architectures, data preprocessing, feature engineering, hyperparameters tuning, loss functions and performance metrics
 
 Natural Language Processing (NLP) and Large Language Models (LLMs):
-• Architectures: RNN, LSTM, seq2seq, Transformers, etc.
-• Pre-trained models: Llama 2, Mistral, GPT, BERT, T5, etc.
-• Techniques: fine-tuning, PEFT (LoRA, QLoRA, Prompt Tuning), RAG, prompt engineering
-• Tasks: sequence and token classification, translation, summarization, question answering, language modeling, dialogue, etc.
+* Architectures: RNN, LSTM, seq2seq, Transformers, etc.
+* Pre-trained models: Llama 2, Mistral, GPT, BERT, T5, etc.
+* Techniques: fine-tuning, PEFT (LoRA, QLoRA, Prompt Tuning), RAG, prompt engineering
+* Tasks: sequence and token classification, translation, summarization, question answering, language modeling, dialogue, etc.
 
 Models development toolkit:
-• Python, NumPy, pandas, matplotlib and scikit-learn
-• PyTorch, TensorFlow
-• HuggingFace Transformers, PEFT, TRL, LangChain
+* Python, NumPy, pandas, matplotlib and scikit-learn
+* PyTorch, TensorFlow
+* HuggingFace Transformers, PEFT, TRL, LangChain
 
 Cloud models development and data acquisition:
-• GCP Vertex AI models development and production deployment
-• GCP BigQuery and SQL used with petabyte-scale data sets
-• MLOps models deployment technologies and pipelines
+* GCP Vertex AI models development and production deployment
+* GCP BigQuery and SQL used with petabyte-scale data sets
+* MLOps models deployment technologies and pipelines
 
 Problem solving and research:
-• Problem-solving with a creative, innovative and logical approach 
-• Conduct scientific research individually and collectively
-• Written and verbal communication and reporting skills, with the ability to explain complex technical concepts to non-experts
+* Problem-solving with a creative, innovative and logical approach 
+* Conduct scientific research individually and collectively
+* Written and verbal communication and reporting skills, with the ability to explain complex technical concepts to non-experts
 
 Team and project management:
-• Technical leadership of ML and DL projects
-• Project management and organizational skills for handling multiple projects
-• Team player with natural team-building skills
+* Technical leadership of ML and DL projects
+* Project management and organizational skills for handling multiple projects
+* Team player with natural team-building skills
 
 
 
