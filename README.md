@@ -4,7 +4,7 @@ I'm a Lead Data Scientist, Deep Learning Engineer and NLP enthusiast.
 
 As a Lead Data Scientist, I apply my expertise in deep learning, natural language processing (NLP) and large language models (LLMs) to build and deploy state-of-the-art solutions. I have over 10 years of experience in developing and delivering machine learning and deep learning products that use structured and unstructured data at petabyte-scale. I am a published author in Nature and Springer journals, a multiple patents owner, and a conference speaker.
 
-I am passionate about working with the latest advancements in NLP and LLMs, such as transformers networks, pre-trained models like Llama 2 or Mistral, fine-tuning techniques and more. I use PyTorch, TensorFlow, HuggingFace Transformers, PEFT, and TRL as my models development toolkit, and GCP Vertex AI and BigQuery as my cloud platforms.
+I am passionate about working with the latest advancements in NLP and LLMs, such as transformers networks, pre-trained models like Llama 2 or Mistral, fine-tuning techniques, RAG and more. I use PyTorch, TensorFlow, HuggingFace Transformers, PEFT, and TRL as my models development toolkit, and GCP Vertex AI and BigQuery as my cloud platforms.
 
 I enjoy conducting end-to-end research projects, solving open-ended problems with a scientific approach, and communicating the results. I am also a product-oriented technical problem solver, keeping the business value perspective always in mind. I am experienced in project management and capable of handling multiple projects, priorities, or products simultaneously. I am a technical leader who helps others to deliver and learn, always a team player who cares for others, and a believer that only good teams can do great things.
 
