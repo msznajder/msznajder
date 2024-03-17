@@ -13,17 +13,7 @@ I enjoy conducting end-to-end research projects, solving open-ended problems wit
 - [Mistral-7B-Instruct-v0.2-Samsum-DialSum-SFTT](https://github.com/msznajder/mistral-7b-samsum-dialogue-summary-finetune) - Mistral 7B model parameter efficient fine-tuning for dialogue summarization with LoRA
 - [ChatGPT and LangChain RAG](https://github.com/msznajder/llm_experiments/blob/main/01_rag_chatgpt_langchain_text_docs_chat.ipynb) - RAG-based text documents Q&A chat with LangChain and ChatGPT
 
-## ⚡Technologies 
-
-**🤖 Machine Learning**  
-Huggingface Transformers, Pytorch, Scikit-Learn, Tensorflow, Weights & Bias, Optuna, Pandas, Numpy
-
-**☁️ Cloud**  
-AWS, GCP, Azure, Kubernetes, Kubeflow, Docker, Terraform, AWS CDK, Github Actions, Serverless Framework
-
-**🏗️ Non-ML Frameworks**  
-Rust, React, Svelte, React-Native, LitElement, GraphQL, Gatsby, TailwindCSS
-
+## ⚡Skills and technologies 
 
 **🤖 Machine learning and deep learning**
 * Models research, development and production deployment
