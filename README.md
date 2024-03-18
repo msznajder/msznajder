@@ -12,6 +12,7 @@ I enjoy conducting end-to-end research projects, solving open-ended problems wit
 
 - [Mistral-7B-Instruct-v0.2-Samsum-DialSum-SFTT](https://github.com/msznajder/mistral-7b-samsum-dialogue-summary-finetune) - Mistral 7B model parameter efficient fine-tuning for dialogue summarization with LoRA
 - [ChatGPT and LangChain RAG Q&A Chat](https://github.com/msznajder/rag-chatgpt-langchain-text-docs-chat) - RAG-based text documents Q&A chat with LangChain and ChatGPT
+- [ECG Signal QRS Complex Pattern Recognition Module](https://github.com/c-labpl/qrs_detector) - An open-source ECG signal QRS complex (ECG heart contraction marker) pattern recognition Python module
 
 ## ⚡ Skills And Technologies 
 
