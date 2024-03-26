@@ -1,6 +1,6 @@
 # Hi there. I'm Michał. 👋
 
-I'm a Lead Data Scientist, Deep Learning Engineer and NLP professional.
+I'm a Lead Data Scientist, Deep Learning Engineer and NLP Engineer.
 
 As a Lead Data Scientist, I apply my expertise in deep learning, natural language processing (NLP) and large language models (LLMs) to build and deploy state-of-the-art solutions. I have over 10 years of experience in developing and delivering machine learning and deep learning products with global reach out that use structured and unstructured data at petabyte-scale. I am a published author in Nature and Springer journals, a multiple patents owner, and a conference speaker.
 
